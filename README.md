@@ -337,14 +337,7 @@ In summary, this project not only provided valuable insights into the factors in
 **[Tools and Libraries]**
 - **Purpose:** List tools and libraries used in the project for transparency and reproducibility.
 - **Activities:**
-  1. Mention Jupyter Notebook, Python libraries (NumPy, pandas, Matplotlib, scikit-learn, Seaborn).
-
----
-
-**[Author]**
-- **Hello!** I am Ruby Poddar, a data science enthusiast, and I created this project to explore the Titanic dataset using various data science techniques and machine learning models.
-
----
+  1. Mention Jupyter Notebook, Python libraries (NumPy, pandas, Matplotlib, scikit-learn, Seaborn) 
 
 
 Sure, here's a concise installation guide for Jupyter Notebook and the required libraries (NumPy, pandas, Matplotlib, scikit-learn, Seaborn):
