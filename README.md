@@ -457,42 +457,6 @@ Sure, here's a concise installation guide for Jupyter Notebook and the required 
 
    - This command opens Jupyter Notebook in your default web browser. You can now navigate to `.ipynb` files and start working on your project.
 
-#### Git Commands
 
-5. **Check Repository Status**:
-   - View the status of your repository (e.g., untracked files, modified files):
-
-     ```bash
-     git status
-     ```
-
-6. **Add and Commit Changes**:
-   - Add all changes to the staging area:
-
-     ```bash
-     git add .
-     ```
-
-   - Commit changes with a descriptive message:
-
-     ```bash
-     git commit -m "Add initial data exploration notebook"
-     ```
-
-7. **Push Changes to GitHub**:
-   - Push committed changes to the remote repository:
-
-     ```bash
-     git push origin main
-     ```
-
-   - Replace `main` with the appropriate branch name if not using the default.
- 
----
-## Contact
-
-**If you have any questions, doubts, or feedback regarding the project, installation, or repository usage, please feel free to contact me via email at** **rubypoddarr@gmail.com.**
-
-#### Your input is highly valued and will contribute to the improvement of this project. Thank you for your interest and collaboration!
 
 
